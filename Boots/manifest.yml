@@ -1,0 +1,4 @@
+applications:
+- name: boots-microservice
+  instances: 1
+  command: node app.js

@@ -1,0 +1,4 @@
+applications:
+- name: users-microservice
+  command: node app.js
+  instances: 1

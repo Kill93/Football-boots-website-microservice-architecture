@@ -1,0 +1,4 @@
+applications:
+- name: orders-microservice
+  instances: 1
+  command: node app.js

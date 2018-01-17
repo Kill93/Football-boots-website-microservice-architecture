@@ -1,0 +1,16 @@
+{
+  "name": "boots",
+  "version": "1.0.0",
+  "description": "Product microservice for scalabale microservices assignment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "killian Nolan",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "mysql": "^2.15.0"
+  }
+}
